@@ -13,6 +13,7 @@ const db = {
   this: { chunks: ['th', 'i', 's'], phones: ['DH', 'IH', 'S'] },
   with: { chunks: ['w', 'i', 'th'], phones: ['W', 'IH', 'DH'] },
   i: { chunks: ['i'], phones: ['AY'] },
+  factory: { chunks: ['f','ac','t','ory'], phones: ['PH','ACK', 'T','RI']},
   you: { chunks: ['y', 'ou'], phones: ['Y', 'UW'] },
   it: { chunks: ['i', 't'], phones: ['IH', 'T'] },
   not: { chunks: ['n', 'o', 't'], phones: ['N', 'AA', 'T'] },
